@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(191, 219, 203);
+    
+}
+.welcome {
+    text-align: center;
+}
+hr {
+    border-style: dotted none none;
+   height: 0px;
+    width: 10%;
+    border-width: 10px;
+    color: rgb(100, 176, 209);
+}
+h1,h3 {
+    color: #026efb;
+}
